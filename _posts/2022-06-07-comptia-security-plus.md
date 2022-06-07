@@ -3,9 +3,8 @@ title:  "Comptia Security+"
 layout: post
 ---
 
-![Comptia Security+ badge](https://user-images.githubusercontent.com/65175073/172458962-8894b19a-e019-4739-bc1c-07ea00fb18e7.jpg)
+In this post I will describe my experience taking the Comptia Security+ SY0-601.
 
-In this post I describe my experience taking the Comptia Security+ SY0-601.
 
 # What is the Comptia Security+?
 
@@ -19,7 +18,15 @@ According to the official Comptia website we have
 > 
 > Security+ is compliant with ISO 17024 standards and approved by the US DoD to meet directive 8140/8570.01-M requirements. Regulators and government rely on ANSI accreditation, because it provides confidence and trust in the outputs of an accredited program. Over 2.3 million CompTIA ISO/ANSI-accredited exams have been delivered since January 1, 2011.
 
-That is, the Comptia Security+ is an entry level cybersecurity certification. It aims to provide a baseline knowledge for people (like me!) trying to pursue an IT security career.
+That is, the Comptia Security+ is an entry level cybersecurity certification. It aims to provide a baseline knowledge for people (like me!) trying to pursue an IT security career. The certification covers a **massive** 1,037 topics (see links at end).
+
+# What was my experience?
+
+Studying for and taking the Comptia Security+ SY0-601 exam has definitely been a phenomenal experience for me. I learned a lot, and that is what matters the most. Let me share with you what I consider the good and the bad of the Sec+ exam.
+
+Good
+- The exam objectives for the Comptia Security+ are listed on the Comptia website. Every possible topic that you could theoretically encounter is listed in this document. I cant speak for other vendors/certifications whether they provide such clarity, but please consider this as an excellent means to evaluate for yourself whether you are prepared to take the exam. I myself wrote out and revised every definition that was on the exam objective.
+
 
 # Links
 - Comptia Security+ [https://www.comptia.org/certifications/security](https://www.comptia.org/certifications/security)
