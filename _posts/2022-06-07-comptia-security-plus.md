@@ -40,10 +40,11 @@ Bad
 - The Security+ gives you a very wide and basic introduction to a variety of topics within security. This means you will also need to know stuff about topics that are less relevant for your job or ambitions. I myself am less passionate about say hardware security or mobile device management, but knowledge of these topics is required. Know the differences between BYOD, CYOD, COPE, RAID 0, RAID 1, RAID 5, RAID 10, etc.
 - The Security+ gives you a very wide and basic introduction to a variety of topics within security. This means you will not learn how to do a pentest. You will not learn how to configure a network. You will not learn about the software development lifecyle, how to set up PKI or how to harden operating systems. These are out of scope for the Comptia Security+, so if your goal is to obtain hands on/real life experience, this exam might not be the right one for you.
 
-In my opinion, the Comptia Security+ certification gives you an excellent baseline for further studies in IT Security. I outlined several downsides of the Comptia Security+, which seem to be mitigated by the Comptia CySa+ ([https://www.comptia.org/certifications/cybersecurity-analyst](https://www.comptia.org/certifications/cybersecurity-analyst)). This exam, which is more oriented towards cyber analysts, seems to be less wide in scope but more in depth. Who knows and maybe I will write a post about this exam too one at some point ;).
+In my opinion, the Comptia Security+ certification gives you an excellent baseline for further studies in IT Security. I outlined several downsides of the Comptia Security+, which seem to be mitigated by the Comptia CySa+ ([https://www.comptia.org/certifications/cybersecurity-analyst](https://www.comptia.org/certifications/cybersecurity-analyst)). This exam, which is more oriented towards cyber analysts, seems to be less wide in scope but more in depth. Who knows and maybe at some point, I will write a post about this exam as well ;).
 
 # Links
 - Comptia Security+ [https://www.comptia.org/certifications/security](https://www.comptia.org/certifications/security)
 - Jason Dion [https://www.diontraining.com](https://www.diontraining.com)
 - Professor Messer [https://www.professormesser.com](https://www.professormesser.com)
 - Reddit on difficulty SY0-601 exam [https://www.reddit.com/r/CompTIA/comments/hpu3ig/why_you_shouldnt_wait_for_the_sy0601_security_exam](https://www.reddit.com/r/CompTIA/comments/hpu3ig/why_you_shouldnt_wait_for_the_sy0601_security_exam)
+
