@@ -24,7 +24,7 @@ That is, the Comptia Security+ is an entry level cybersecurity certification. It
 
 # What was my experience?
 
-Studying for and taking the Comptia Security+ SY0-601 exam has definitely been a phenomenal experience. I learned a lot, and that is what matters the most to me. Let me share with you what I consider the good and the bad of the Security+ exam.
+Studying for and taking the Comptia Security+ SY0-601 exam has definitely been a phenomenal experience. Let me share with you what I consider the good and the bad of the Security+ exam.
 
 Good
 - The Security+ is compliant with ISO 17024 standards and approved by the US DoD to meet directive 8140/8570.01-M requirements. 
