@@ -36,7 +36,6 @@ Good
 
 Bad
 - There is a price barrier to taking the examination. The cost of my exam was about 350 euros, excluding possible retake. Combine this with the fact that a passing score is 750/900 ~ 83%, with is very high IMO, this could be considered a risky investment.
-- My total study time was 2 months, studying a couple of hours a day. Of course, study time varies immensely depending on your background, but I can assure you this is not the kind of exam you pass by taking a one week bootcamp.
 - The Security+ gives you a very wide and basic introduction to a variety of topics within security. This means you will also need to know stuff about topics that are less relevant for your job or ambitions. I myself am less passionate about say hardware security or mobile device management, but knowledge of these topics is required. Know the differences between BYOD, CYOD, COPE, RAID 0, RAID 1, RAID 5, RAID 10, etc.
 - The Security+ gives you a very wide and basic introduction to a variety of topics within security. This means you will not learn how to do a pentest. You will not learn how to configure a network. You will not learn about the software development lifecyle, how to set up PKI or how to harden operating systems. These are out of scope for the Comptia Security+, so if your goal is to obtain hands on/real life experience, this exam might not be the right one for you.
 
