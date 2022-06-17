@@ -5,7 +5,7 @@ layout: post
 
 In this post I will describe my experience taking the Comptia Security+ SY0-601.
 
-![comptia-security-plus-small](https://user-images.githubusercontent.com/65175073/172543640-10b3d336-8fdb-40f5-b54d-0af99fab11d8.png)
+![comptia-security-plus-badge](https://user-images.githubusercontent.com/65175073/172543640-10b3d336-8fdb-40f5-b54d-0af99fab11d8.png)
 
 
 # What is the Comptia Security+?
