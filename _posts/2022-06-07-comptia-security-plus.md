@@ -20,7 +20,15 @@ According to the official Comptia website we have
 > 
 > Security+ is compliant with ISO 17024 standards and approved by the US DoD to meet directive 8140/8570.01-M requirements. Regulators and government rely on ANSI accreditation, because it provides confidence and trust in the outputs of an accredited program. Over 2.3 million CompTIA ISO/ANSI-accredited exams have been delivered since January 1, 2011.
 
-That is, the Comptia Security+ is an entry-level cybersecurity certification. It validates the baseline skills necessary to perform core security functions and pursue an IT security career. The certification covers a **massive** 1,037 topics (see links at end).
+That is, the Comptia Security+ is an entry-level cybersecurity certification. It validates the baseline skills necessary to perform core security functions and pursue an IT security career. The domains covered in the certification are the following
+
+- Attacks, Threats, and Vulnerabilities
+- Architecture and Design
+- Implementation
+- Operations and Incident Response
+- Governance, Risk, and Compliance
+
+The certification covers a **massive** 1,037 topics (see links at end).
 
 # What are my thoughts?
 
