@@ -38,9 +38,7 @@ Bad
 - The Security+ gives you a very wide and basic introduction to a variety of topics within security. This means you will also need to learn about topics that are less relevant for your job or ambitions. I myself, am less passionate about say hardware security or mobile device management, but knowledge of these topics is required. Know the differences between RAID 0, RAID 1, RAID 5, RAID 10, BYOD, CYOD, COPE etc.
 - The Security+ gives you a very wide and basic introduction to a variety of topics within security. This means you will not learn how to do a pentest. You will not learn how to configure a network. You will not learn about the software development lifecycle, how to set up PKI or how to harden operating systems. These are out of scope for the Comptia Security+, so if your goal is to obtain hands on/real life experience, this exam might not be the right one for you.
 
-In my opinion, the Comptia Security+ certification provides a solid baseline of knowledge for further studies or career in IT security. I learned a lot and enjoyed the certification.
-
-If you are unsure whether this certification is right for you, I would encourage you to check out the official Comptia exam objectives. If the objectives are comprised of topics that you should know for your career, I would suggest you give the certification a go as well!
+I learned a lot and enjoyed the certification. If you are unsure whether this certification is right for you, I would encourage you to check out the official Comptia exam objectives. If the objectives are comprised of topics that you should know for your career, I would suggest you give the certification a go as well!
 
 # Links
 - Comptia Security+ [https://www.comptia.org/certifications/security](https://www.comptia.org/certifications/security)
