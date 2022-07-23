@@ -42,6 +42,13 @@ The consequences of coding for the model of computability we presented earlier a
 
 Now comes the fun part. Fix such an enumeration by $$\varphi_0, \varphi_1, \varphi_2, \ldots$$ and say that $$e$$ is an index of the computable function $$\varphi_e$$ or index of the program $$Pe$$ (e.g. the $$e$$th Turing machine). This index is also called the *Godel number* for that program, named after Godel, who used the idea of coding formulas to prove his incompleteness theorem.
 
+Define
+
+
+$$\varphi_*(i) = /varphi_i(i) + 1.$$
+
+
+Then, since this function differs from all functions from our enumeration, it can not be computed. 
 
 # Links
 - [https://github.com/adriaanmolendijk/adriaanmolendijk.github.io/files/9173262/lse_master_dissertation.pdf](https://github.com/adriaanmolendijk/adriaanmolendijk.github.io/files/9173262/lse_master_dissertation.pdf)
