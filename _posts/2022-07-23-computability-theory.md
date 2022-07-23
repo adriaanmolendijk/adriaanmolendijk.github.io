@@ -40,7 +40,7 @@ $$⟨m,n⟩ = 12(m^2 + 2mn + n^2 + 3m + n).$$
 
 The consequences of coding for the model of computability we presented earlier are as follows. For the Turing machine model, we can encode all the alphabet symbols and internal states, and from there encode all of the programs we can write on the machine as well. We obtain an effective enumeration of all functions we can compute using this model (for an explicit bijection between the set of all Turing programs and $$\mathbb{N}$$ see my dissertation).
 
-Now comes the fun part. Fix such an enumeration by $$\psi_0, \psi_1, \psi_2, \ldots$$ and say that $$e$$ is an index of the computable function $$\psi_e$$ or index of the program $$Pe$$ (e.g. the $$e$$th Turing machine). This index is also called the *Godel number* for that program, named after Godel, who used the idea of coding formulas to prove his incompleteness theorem.
+Now comes the fun part. Fix such an enumeration by $$\varphi_0, \varphi_1, \varphi_2, \ldots$$ and say that $$e$$ is an index of the computable function $$\varphi_e$$ or index of the program $$Pe$$ (e.g. the $$e$$th Turing machine). This index is also called the *Godel number* for that program, named after Godel, who used the idea of coding formulas to prove his incompleteness theorem.
 
 
 # Links
