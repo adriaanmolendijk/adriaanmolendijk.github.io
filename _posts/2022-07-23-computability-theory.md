@@ -11,7 +11,7 @@ I got acquainted with Computability theory during my Master degree at the [Londo
 
 # What is computability theory?
 
-## It's motivation
+## The motivation
 
 According to Wikipedia we have
 
@@ -24,4 +24,6 @@ That is, Computability theory is an academic field that falls within the broader
 I always like to compare these questions to the one(s) that are addressed by Computation theory (https://en.wikipedia.org/wiki/Theory_of_computation). Computation theory tries to address the question
 - Given a problem X, what are the resources needed to solve said problem?
 
-As you can see, the questions are fundamentally different. While Computation theory really tries to understand the **resources** needed to solve a problem (often optimally)
+As you can see, the questions are fundamentally different. While Computation theory really tries to understand the **resources** needed to solve a problem (often optimally), Computability theory tries to understand the fundamental limitations of what can be computed at all.
+
+## The content
