@@ -45,7 +45,7 @@ Now comes the fun part. Fix such an enumeration by $$\varphi_0, \varphi_1, \varp
 Define
 
 
-$$\varphi_*(i) = /varphi_i(i) + 1.$$
+$$\varphi_*(i) = \varphi_i(i) + 1.$$
 
 
 Then, since this function differs from all functions from our enumeration, it can not be computed. 
