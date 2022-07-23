@@ -48,7 +48,7 @@ Define
 $$\varphi_*(i) = \varphi_i(i) + 1.$$
 
 
-Then, since this function differs from all functions from our enumeration, it can not be computed. 
+Then, since this function differs from all the functions from our enumeration, it can not be computed. 
 
 # Links
 - [https://github.com/adriaanmolendijk/adriaanmolendijk.github.io/files/9173262/lse_master_dissertation.pdf](https://github.com/adriaanmolendijk/adriaanmolendijk.github.io/files/9173262/lse_master_dissertation.pdf)
