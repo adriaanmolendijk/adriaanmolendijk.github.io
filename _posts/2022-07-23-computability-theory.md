@@ -32,9 +32,12 @@ Let's get started. A Turing machine, due to Alan Turing, is a machine which has 
 
 In this post we will not be concerned with the particular details of the Turing machine model. We will refer to a function $$f$$ as Turing computable or just computable if there is a Turing machine that, for each $$x$$ and $$y$$, terminates on input $$x$$ with output $$y$$ iff $$f(x) ≃ y$$. Simply put, a *function is computable if there is a Turing machine that computes it*.
 
-Next, encoding. The coding of nonnumerical objects is fundamental for the theory of computability. The most important part of coding a set of objects is that we have an effective bijection between our set of objects and the natural numbers. An example of a set that can be coded into the natural numbers is the set $$\mathbb{N}$$, using the computable bijection ⟨m,n⟩ = 12(m2 + 2mn + n2 + 3m + n). We will be using this bijection later in the dissertation.
+Next, encoding. The coding of nonnumerical objects is fundamental for the theory of computability. The most important part of coding a set of objects is that we have an effective bijection between our set of objects and the natural numbers. An example of a set that can be coded into the natural numbers is the set $$\mathbb{N}$$, using the computable bijection 
+
+$$⟨m,n⟩ = 12(m2 + 2mn + n2 + 3m + n).$$
+
+The consequences of coding for the model of computability we presented earlier are as follows. For the Turing machine model, we can encode all the alphabet symbols and internal states, and from there encode all of the programs we can write on the machine as well. We obtain an effective enumeration of all functions we can compute using this model (for an explicit bijection between the set of all Turing programs and the set of natural numbers see my dissertation).
 
 # Links
 - [https://github.com/adriaanmolendijk/adriaanmolendijk.github.io/files/9173262/lse_master_dissertation.pdf](https://github.com/adriaanmolendijk/adriaanmolendijk.github.io/files/9173262/lse_master_dissertation.pdf)
 - [https://en.wikipedia.org/wiki/Turing_machine](https://en.wikipedia.org/wiki/Turing_machine)
-- 
