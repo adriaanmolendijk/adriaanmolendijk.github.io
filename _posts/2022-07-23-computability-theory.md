@@ -5,6 +5,7 @@ layout: post
 
 In this post I will give a very short introduction to the field of Computability theory.
 
+
 I got acquainted with Computability theory during my Master degree at the [London School of Economics](https://www.lse.ac.uk/). There I wrote my dissertation on this exact topic, which can be found at [(https://github.com/adriaanmolendijk/adriaanmolendijk.github.io/files/9173262/lse_master_dissertation.pdf)
 ]((https://github.com/adriaanmolendijk/adriaanmolendijk.github.io/files/9173262/lse_master_dissertation.pdf)
 ).
